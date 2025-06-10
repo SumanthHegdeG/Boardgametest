@@ -5,7 +5,7 @@
         maven 'maven3.6'
         jdk 'jdk17'
     }
-    
+     
     stages {
             
         stage('Compile') {
