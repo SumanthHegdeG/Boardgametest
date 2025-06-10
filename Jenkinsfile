@@ -7,7 +7,7 @@
     }
     
     stages {
-           
+            
         stage('Compile') {
             steps {
              bat 'mvn compile'
